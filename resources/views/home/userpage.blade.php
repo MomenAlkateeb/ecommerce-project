@@ -51,7 +51,7 @@
       @include('home.client')
       <!-- end client section -->
       <!-- footer start -->
-    
+
       <div class="cpy_">
          <p class="mx-auto">© 2022 All Rights Reserved By <a href=https://www.linkedin.com/feed target="blank">Momen Alkateeb</a><br>
 
